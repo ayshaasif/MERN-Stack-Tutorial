@@ -1,0 +1,10 @@
+20230819	20:24:19	fea1d59f-2952-4736-9822-cba1f4c5e020	Error:	CORS: ORIGIN: https://www.google.com NOT ALLOWED	OPTIONS	/	https://www.google.com
+20230819	20:24:19	4367ae04-c95d-4460-9eee-4cedc1e7e806	Error:	CORS: ORIGIN: https://www.google.com NOT ALLOWED	GET	/	https://www.google.com
+20230821	14:09:56	090613e3-db20-4990-a351-4a4480d13e9d	Error:	Cannot set headers after they are sent to the client	GET	/users	undefined
+20230821	15:18:47	a6db7eca-25e1-4dbb-ba8a-5bd41827c91c	SyntaxError:	Unexpected token } in JSON at position 57	POST	/users	undefined
+20230821	15:28:55	bff4dc78-ce7a-4fd3-90e0-a32224c6aef7	SyntaxError:	Unexpected token } in JSON at position 164	PATCH	/users	undefined
+20230821	15:44:06	2ffb1698-7831-46ba-8a8e-de876ee25a6d	ReferenceError:	Cannot access 'result' before initialization	DELETE	/users	undefined
+20231007	23:05:41	2c73d0f9-ff14-4615-aed3-80d3bc4aadb0	Error:	CORS: ORIGIN: http://localhost:3000 NOT ALLOWED	GET	/users	http://localhost:3000
+20231007	23:08:35	5ada1811-e38b-451b-95cb-b0a5b2494a3b	Error:	CORS: ORIGIN: http://localhost:3000 NOT ALLOWED	GET	/users	http://localhost:3000
+20231009	00:32:29	3e0fb124-c3b9-42b7-b747-c9774499fd2a	Error:	CORS: ORIGIN: http://localhost:3000 NOT ALLOWED	GET	/users	http://localhost:3000
+20231009	00:32:35	28eed414-832a-48b7-a35f-4cda9d5f6243	Error:	CORS: ORIGIN: http://localhost:3000 NOT ALLOWED	GET	/users	http://localhost:3000
